@@ -1,1 +1,1 @@
-console.log('About JS')
+console.log('About')
